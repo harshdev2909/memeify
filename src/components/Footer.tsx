@@ -13,7 +13,7 @@ function Footer() {
             >
               <Heart className="h-6 w-6 text-secondary mr-2" />
               <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                MemeGen
+                Memeify
               </span>
             </Link>
             <p className="mt-2 text-sm text-slate-600 dark:text-slate-400">
