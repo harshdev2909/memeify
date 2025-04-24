@@ -34,7 +34,7 @@ function Footer() {
             <h3 className="font-semibold mb-3">Connect With Us</h3>
             <div className="flex space-x-4 mt-2">
               <a 
-                href="https://github.com/harshsharma" 
+                href="https://github.com/harshdev2909" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-slate-600 dark:text-slate-400 hover:text-primary dark:hover:text-primary"
