@@ -1,4 +1,4 @@
-# Meme Generator
+# Memeify
 
 A feature-rich meme creator and sharing platform built with React, Tailwind CSS, and Supabase.
 
@@ -33,7 +33,7 @@ A feature-rich meme creator and sharing platform built with React, Tailwind CSS,
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-username/meme-generator.git
+git clone https://github.com/harshdev2909/memeify.git
 cd meme-generator
 ```
 
@@ -73,4 +73,4 @@ This project is open-source, feel free to use it for your own projects.
 
 ## Credits
 
-Built by [Harsh Sharma](https://github.com/harshsharma)
+Built by [Harsh Sharma](https://github.com/harshdev2909)
